@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EngiFlow - Document Approval System",
+  "description": "A SaaS platform for engineering companies to manage internal document approval workflows. Features document uploading, review tracking, and an analytics dashboard. Each document can be secured with a unique password.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
